@@ -122,12 +122,12 @@ items("buyLivesButton", 20);
 items2("buy2xButton", 2);
 
 //Citations
-//[1] Dory and Marlin hugging image - https://www.disneyclips.com/imagesnewb5/images/dory-nemo-marlin.png
+//[1] Dory, Marlin, and Nemo - https://www.disneyclips.com/imagesnewb5/images/dory-nemo-marlin.png
 //[2] Nemo by himself image - https://seeklogo.com/vector-logo/98097/nemo
 //[3] Clown fishes background image - https://www.manhattanreefs.com/forum/photography/84058-clownfish-babies-half-black-photons.html
-//[4] Home screen image - 
+//[4] Home screen image - http://bfullfreehdwallpapers.blogspot.no/2015/04/finding-nemo-dory-marlin-wallpaper.html
 //[5] Instruction image - https://www.pinterest.com/pin/85216617934396725/
-//[6] win screen png. -
+//[6] lose screen .png - https://www.disneyclips.com/imagesnewb/nemo2.html
 //[7] win screen, lose screen background - https://www.youtube.com/watch?v=uip1tBrRtws
-//[8] store 2x image -
-//[9] store 1up Image -
+//[8] store 2x image - http://www.resproj.com/merch-icon-2x/
+//[9] store 1up Image - https://www.ebay.co.uk/itm/1up-STICKER-euro-jdm-drift-vw-rat-8bit-retro-graphics-120mm-wide-/130759929158
